@@ -1,4 +1,4 @@
-# Activity_monitoring_data Project
+# Activity monitoring data 
 Project for use of Markdown & knitr;
 
     Dataset: Activity monitoring data [52K]
